@@ -79,5 +79,5 @@ class Widget {
   }
 }
 
-const testW = new Widget('http://localhost:7070/sse');
+const testW = new Widget('https://heroku-ahj-hw-8-1.herokuapp.com/sse');
 testW.init();
